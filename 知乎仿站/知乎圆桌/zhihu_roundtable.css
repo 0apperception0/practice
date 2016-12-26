@@ -1,0 +1,302 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-color:#F2F4F6;
+}
+.header1{
+	width:100%;
+	height:50px;
+	background-color:#0765C5;
+}
+.section1{
+	width:1000px;
+	margin:0 auto;
+}
+.section1 h1,input,nav{
+	display:inline-block;
+}
+.setion1-h1{
+	font-weight:bold;
+	font-size:28px;
+	color:#FFFFFF;
+	vertical-align:bottom;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+header section a:hover{
+    text-decoration:none;
+}
+.section1 a{
+	color:#FFFFFF;
+}
+.section1 input{
+	width:350px;
+	height:30px;
+	padding-left:5px;
+	margin-top:10px;
+	font-size:14px;
+	border-radius:5px;
+	border:0px;
+	background:#E1EAF2 url(./image/search.png) no-repeat right center;
+}
+.header1-nav1{
+	margin-left:30px;
+}
+.header1-nav1 a{
+	margin-right:15px;
+	font-size:15px;
+	color:#EBF6F9;
+}
+.header1-nav1 a:hover{
+	color:#FFFFFF;
+}
+.header1-nav2{
+	margin-left:100px;
+}
+.header1-nav2 button{
+	width:70px;
+	height:30px;
+	font-size:15px;
+	border-radius:5px;
+	background-color:#0E77E3;
+	border:1px solid #0B5BAC;
+	color:#FFFFFF;
+	margin-right:15px;
+	cursor:pointer;
+}
+.header1-nav2 a{
+	margin-right:10px;
+	font-size:15px;
+	color:#EBF6F9;
+}
+.header1-nav2 a:hover{
+	color:#FFFFFF;
+}
+.header1-nav2-img{
+	margin-right:5px;
+}
+.section2{
+	width:980px;
+	height:100%;
+	margin:0 auto;
+}
+.section2-left{
+	display:inline-block;
+	width:700px;
+}
+.section2-right{
+	display:inline-block;
+	width:270px;
+	vertical-align:top;
+   	
+    border:1px solid #D3D9DE;
+}
+.section2-left-div{
+	display:inline-block;
+	margin-top:25px;
+	margin-right:25px;
+	width:200px;
+	height:240px;
+	border-radius:5px;
+	border:1px solid #D3D9DE;
+	background-color:#FFFFFF;
+}
+.section2-bgimg1{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/我爱看美剧.jpg) no-repeat left top;
+}
+.section2-bgimg2{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/NBA赛场内外.jpg) no-repeat left top;
+}
+.section2-bgimg3{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/新能源汽车时代.jpg) no-repeat left top;
+}
+.section2-bgimg4{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/成为心理咨询师.jpg) no-repeat left top;
+}
+.section2-bgimg5{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/你现在还读书吗.jpg) no-repeat left top;
+}
+.section2-bgimg6{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/商业银行职业进阶之路.jpg) no-repeat left top;
+}
+.section2-bgimg7{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/2016年度盘点.jpg) no-repeat left top;
+}
+.section2-bgimg8{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/被忽视的校园暴力.jpg) no-repeat left top;
+}
+.section2-bgimg9{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/健康真相.jpg) no-repeat left top;
+}
+.section2-bgimg10{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/出国去过冬.jpg) no-repeat left top;
+}
+.section2-bgimg11{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/运动在冬季.jpg) no-repeat left top;
+}
+.section2-bgimg12{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/自由职业之路.jpg) no-repeat left top;
+}
+.section2-bgimg13{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/分享经济浪潮.jpg) no-repeat left top;
+}
+.section2-bgimg14{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/赛车大小事.jpg) no-repeat left top;
+}
+.section2-bgimg15{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/即使独自生活.jpg) no-repeat left top;
+}
+.section2-bgimg16{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/玩转无人机.jpg) no-repeat left top;
+}
+.section2-bgimg17{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/读个商学院.jpg) no-repeat left top;
+}
+.section2-bgimg18{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/买辆二手车.jpg) no-repeat left top;
+}
+.section2-bgimg19{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/网红与网红经济.jpg) no-repeat left top;
+}
+.section2-bgimg20{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/搞装修.jpg) no-repeat left top;
+}
+.section2-bgimg21{
+	width:200px;
+	height:200px;
+	background:#FFFFFF url(./image/2016诺贝尔奖巡礼.jpg) no-repeat left top;
+}
+.section2-left-p{
+	margin:-30px 0px 25px 14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:15px;
+}
+.reading_quantity{
+	text-align:center;
+	color:#778087;
+	font-weight:550;
+	font-size:15px;
+}
+.section1-more{
+	display:block;
+	width:666px;
+	height:40px;
+	background-color:#FFFFFF;
+	color:#7780A5;
+	margin-top:40px;
+	border:1px solid #7780A5;
+	cursor:pointer;
+	border-radius:5px;
+}
+.cp{
+	cursor:pointer;
+}
+.organizer{
+	width:270px;
+	height:40px;
+	border-bottom:1px solid #D3D9DE;
+	line-height:40px;
+	padding-left:10px;
+	font-weight:bold;
+	color:#778087;
+	font-size:15px;
+}
+.sidebar-part{
+	width:270px;
+	height:75px;
+	border-bottom:1px solid #D3D9DE;
+}
+.sidebar-img{
+	display:inline-block;
+	width:75px;
+	height:75px;
+	text-align:center;
+}
+.sidebar-img0{
+	margin-top:10px;
+}
+.sidebar-info{
+	display:inline-block;
+	width:180px;
+	height:75px;
+}
+.sidebar-info p{
+	font-size:14px;
+	color:#778087;
+	margin-top:15px;
+}
+.sidebar-info a{
+	color:#778087;
+}
+.footer{
+	margin-top:25px;
+	width:260px;
+	height:50px;
+	border:1px solid #D3D9DE;
+	margin-right:-700px;
+	font-size:14px;
+	margin-bottom:30px;
+	color:#778087;
+	padding-left:10px;
+	padding-top:10px;
+}
+.footer a{
+	color:#778087;
+}
+.footer a:hover{
+	text-decoration:none;
+	color:#72C0D3;
+}
+.section2-right-wrap{
+	display:inline-block;
+	width:270px;
+	vertical-align:top;
+   	margin-top:25px;
+}
